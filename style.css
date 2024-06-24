@@ -1,0 +1,14 @@
+ body {
+    background-image: url("bg1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: 1500px ;
+  border: 2px solid;
+
+ }  
+ .oz {
+    font-size: 26px;
+ }
+ .tea {
+    font-size: 16px;
+ }
